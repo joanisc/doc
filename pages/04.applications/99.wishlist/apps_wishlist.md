@@ -187,6 +187,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | mumble_admin_plugin | Mumble-server web interface |  | [Package Draft](https://github.com/matlink/mumble_admin_plugin_ynh) |
 | munin | Resource monitoring tool |  | [Package Draft](https://github.com/YunoHost-Apps/munin_ynh) |
 | Museek+ |  | [Upstream](https://github.com/eLvErDe/museek-plus) |  |
+| Mycroft ia |  | [Mycroft IA](https://github.com/MycroftAI/mycroft-core) |  |
 | mycryptochat | Encrypted IM |  | [Package Draft](https://github.com/mrtino/mycryptochat_ynh) |
 | mx-puppet-discord | A bridge between Matrix and Discord | [Upstream](https://github.com/matrix-discord/mx-puppet-discord) |  |
 | [Nautilus](https://myactivity.stream/) | Turn your website into an ActivityPub profile  | [Upstream](https://github.com/aaronpk/Nautilus) |  |
